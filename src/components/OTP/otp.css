@@ -1,0 +1,13 @@
+.otp {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.otp input {
+    max-width: 2ch;
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 2rem;
+    text-align: center;
+}
